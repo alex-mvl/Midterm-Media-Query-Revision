@@ -2,7 +2,7 @@
 @import url("https://use.typekit.net/ksy1zvg.css");
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 480px) {
 body{
 
   background-color: rgba(137, 99, 54, 1);
@@ -573,7 +573,7 @@ iframe{
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 480px) {
 body{
 background-color: rgba(137, 99, 54, 1);
   
@@ -621,7 +621,7 @@ background-color: rgba(137, 99, 54, 1);
   display: flex;
   flex-direction: row;
   margin-left: -18em;
-  margin-top: 5em;
+  margin-top: 3em;
   gap: .5em;
   font-size: .8em;
 }
@@ -631,13 +631,14 @@ background-color: rgba(137, 99, 54, 1);
 
 }
 
-  .navMenu > .logo{
+.navMenu > .logo{
   font-style: normal;
   font-weight: 500;
   font-size: 2.0em;
   letter-spacing: 0.05313rem;
   margin-left: 2em;
-  margin-top: 1em;
+  margin-top: .2em;
+
 
  
 
@@ -697,7 +698,7 @@ a:active {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  margin-top: 6em;
+  margin-top: 9em;
   width: 100vw;
   height: 25vh;
 }
