@@ -948,7 +948,7 @@ iframe{
 
 .body02 > .firstArtist:last-child{
   background-image: url(headingTwo.png);
-  margin-top: 15em;
+  margin-top: 18em;
 }
 
 .secondArtistText{
@@ -986,7 +986,7 @@ iframe{
 
 .body02 > .newReleases:last-child{
   background-image: url(headingFour.png);
-  margin-top: 10em;
+  margin-top: 14em;
 }
 
 
@@ -1063,7 +1063,7 @@ iframe{
 
 .body02 > .trends:last-child{
   background-image: url(headingEight.png);
-  margin-top: 19em;
+  margin-top: 23em;
 }
 
 .firstTrendText{
@@ -1106,7 +1106,7 @@ iframe{
 
 .body02 > .musicTrends:last-child{
   background-image: url(headingSix.png);
-  margin-top: 0em;
+  margin-top: 3em;
 }
 
 
